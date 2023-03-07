@@ -2,5 +2,5 @@
 
 # Stop Tomcat first
 sudo systemctl stop tomcat
-sudo rm -rf /usr/share/tomcat/webapps/hello-world-maven.war
+sudo rm -rf /opt/apache-tomcat-9.0.35/webapps/hello-world-maven.war
 
